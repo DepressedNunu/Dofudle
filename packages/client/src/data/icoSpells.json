@@ -1,0 +1,3386 @@
+{
+  "characters": {
+    "feca": [
+      {
+        "name": "Langueur",
+        "img": "\\feca\\langueur.jpg"
+      },
+      {
+        "name": "Atonie",
+        "img": "\\feca\\atonie.jpg"
+      },
+      {
+        "name": "Rempart",
+        "img": "\\feca\\rempart.jpg"
+      },
+      {
+        "name": "Fortification",
+        "img": "\\feca\\fortification.jpg"
+      },
+      {
+        "name": "Retour du Baton",
+        "img": "\\feca\\retour_du_baton.jpg"
+      },
+      {
+        "name": "Tetanie",
+        "img": "\\feca\\tetanie.jpg"
+      },
+      {
+        "name": "Nimbus",
+        "img": "\\feca\\nimbus.jpg"
+      },
+      {
+        "name": "Stratus",
+        "img": "\\feca\\stratus.jpg"
+      },
+      {
+        "name": "Typhon",
+        "img": "\\feca\\typhon.jpg"
+      },
+      {
+        "name": "Silbo",
+        "img": "\\feca\\silbo.jpg"
+      },
+      {
+        "name": "Barricade",
+        "img": "\\feca\\barricade.jpg"
+      },
+      {
+        "name": "Pavois",
+        "img": "\\feca\\pavois.jpg"
+      },
+      {
+        "name": "Somnolence",
+        "img": "\\feca\\somnolence.jpg"
+      },
+      {
+        "name": "Manoeuvre",
+        "img": "\\feca\\manoeuvre.jpg"
+      },
+      {
+        "name": "Lethargie",
+        "img": "\\feca\\lethargie.jpg"
+      },
+      {
+        "name": "Regroupement",
+        "img": "\\feca\\regroupement.jpg"
+      },
+      {
+        "name": "Bastion",
+        "img": "\\feca\\bastion.jpg"
+      },
+      {
+        "name": "Treve",
+        "img": "\\feca\\treve.jpg"
+      },
+      {
+        "name": "Bourrasque",
+        "img": "\\feca\\bourrasque.jpg"
+      },
+      {
+        "name": "Escapade",
+        "img": "\\feca\\escapade.jpg"
+      },
+      {
+        "name": "Bulle",
+        "img": "\\feca\\bulle.jpg"
+      },
+      {
+        "name": "Sonnailles",
+        "img": "\\feca\\sonnailles.jpg"
+      },
+      {
+        "name": "Transhumance",
+        "img": "\\feca\\transhumance.jpg"
+      },
+      {
+        "name": "Egide",
+        "img": "\\feca\\egide.jpg"
+      },
+      {
+        "name": "Houlette",
+        "img": "\\feca\\houlette.jpg"
+      },
+      {
+        "name": "Frisson",
+        "img": "\\feca\\frisson.jpg"
+      },
+      {
+        "name": "Torpeur",
+        "img": "\\feca\\torpeur.jpg"
+      },
+      {
+        "name": "Giboulee",
+        "img": "\\feca\\giboulee.jpg"
+      },
+      {
+        "name": "Renfort",
+        "img": "\\feca\\renfort.jpg"
+      },
+      {
+        "name": "Ataraxie",
+        "img": "\\feca\\ataraxie.jpg"
+      },
+      {
+        "name": "Prairie",
+        "img": "\\feca\\prairie.jpg"
+      },
+      {
+        "name": "Paturage",
+        "img": "\\feca\\paturage.jpg"
+      },
+      {
+        "name": "Vallee",
+        "img": "\\feca\\vallee.jpg"
+      },
+      {
+        "name": "Verglas",
+        "img": "\\feca\\verglas.jpg"
+      },
+      {
+        "name": "Bergerie",
+        "img": "\\feca\\bergerie.jpg"
+      },
+      {
+        "name": "Excursion",
+        "img": "\\feca\\excursion.jpg"
+      },
+      {
+        "name": "Terre Battue",
+        "img": "\\feca\\terre_battue.jpg"
+      },
+      {
+        "name": "Refuge",
+        "img": "\\feca\\refuge.jpg"
+      },
+      {
+        "name": "Terre Brulee",
+        "img": "\\feca\\terre_brulee.jpg"
+      },
+      {
+        "name": "Vigie",
+        "img": "\\feca\\vigie.jpg"
+      },
+      {
+        "name": "Defiance",
+        "img": "\\feca\\defiance.jpg"
+      },
+      {
+        "name": "Barriere",
+        "img": "\\feca\\barriere.jpg"
+      },
+      {
+        "name": "Bouclier Feca",
+        "img": "\\feca\\bouclier_feca.jpg"
+      },
+      {
+        "name": "Mise en Garde",
+        "img": "\\feca\\mise_en_garde.jpg"
+      }
+    ],
+    "osamodas": [
+      {
+        "name": "Dragonique",
+        "img": "\\osamodas\\dragonique.jpg"
+      },
+      {
+        "name": "Reptincelles",
+        "img": "\\osamodas\\reptincelles.jpg"
+      },
+      {
+        "name": "Geyser",
+        "img": "\\osamodas\\geyser.jpg"
+      },
+      {
+        "name": "Aquaculture",
+        "img": "\\osamodas\\aquaculture.jpg"
+      },
+      {
+        "name": "Prime",
+        "img": "\\osamodas\\prime.jpg"
+      },
+      {
+        "name": "Favoritisme",
+        "img": "\\osamodas\\favoritisme.jpg"
+      },
+      {
+        "name": "Canine",
+        "img": "\\osamodas\\canine.jpg"
+      },
+      {
+        "name": "Gambade",
+        "img": "\\osamodas\\gambade.jpg"
+      },
+      {
+        "name": "Fossile",
+        "img": "\\osamodas\\fossile.jpg"
+      },
+      {
+        "name": "Sedimentation",
+        "img": "\\osamodas\\sedimentation.jpg"
+      },
+      {
+        "name": "Baume Protecteur",
+        "img": "\\osamodas\\baume_protecteur.jpg"
+      },
+      {
+        "name": "Quart",
+        "img": "\\osamodas\\quart.jpg"
+      },
+      {
+        "name": "Ponction",
+        "img": "\\osamodas\\ponction.jpg"
+      },
+      {
+        "name": "Equilibre Bestial",
+        "img": "\\osamodas\\equilibre_bestial.jpg"
+      },
+      {
+        "name": "Poison Cinglant",
+        "img": "\\osamodas\\poison_cinglant.jpg"
+      },
+      {
+        "name": "Onde Aquatique",
+        "img": "\\osamodas\\onde_aquatique.jpg"
+      },
+      {
+        "name": "Corbeau Embrase",
+        "img": "\\osamodas\\corbeau_embrase.jpg"
+      },
+      {
+        "name": "Ecaille Transversale",
+        "img": "\\osamodas\\ecaille_transversale.jpg"
+      },
+      {
+        "name": "Second",
+        "img": "\\osamodas\\second.jpg"
+      },
+      {
+        "name": "Resistance Naturelle",
+        "img": "\\osamodas\\resistance_naturelle.jpg"
+      },
+      {
+        "name": "Croc Repulsif",
+        "img": "\\osamodas\\croc_repulsif.jpg"
+      },
+      {
+        "name": "Envol",
+        "img": "\\osamodas\\envol.jpg"
+      },
+      {
+        "name": "Pilon Laineux",
+        "img": "\\osamodas\\pilon_laineux.jpg"
+      },
+      {
+        "name": "Toison Bouffante",
+        "img": "\\osamodas\\toison_bouffante.jpg"
+      },
+      {
+        "name": "Piqure Motivante",
+        "img": "\\osamodas\\piqure_motivante.jpg"
+      },
+      {
+        "name": "Quint",
+        "img": "\\osamodas\\quint.jpg"
+      },
+      {
+        "name": "Plumeau",
+        "img": "\\osamodas\\plumeau.jpg"
+      },
+      {
+        "name": "Coeur de Dragon",
+        "img": "\\osamodas\\coeur_de_dragon.jpg"
+      },
+      {
+        "name": "Souffle du Dragon",
+        "img": "\\osamodas\\souffle_du_dragon.jpg"
+      },
+      {
+        "name": "Constriction",
+        "img": "\\osamodas\\constriction.jpg"
+      },
+      {
+        "name": "Benediction Animale",
+        "img": "\\osamodas\\benediction_animale.jpg"
+      },
+      {
+        "name": "Remplacement",
+        "img": "\\osamodas\\remplacement.jpg"
+      },
+      {
+        "name": "Frappe du Craqueleur",
+        "img": "\\osamodas\\frappe_du_craqueleur.jpg"
+      },
+      {
+        "name": "Batra",
+        "img": "\\osamodas\\batra.jpg"
+      },
+      {
+        "name": "Tourbillon",
+        "img": "\\osamodas\\tourbillon.jpg"
+      },
+      {
+        "name": "Deplumage",
+        "img": "\\osamodas\\deplumage.jpg"
+      },
+      {
+        "name": "Tierce",
+        "img": "\\osamodas\\tierce.jpg"
+      },
+      {
+        "name": "Relais",
+        "img": "\\osamodas\\relais.jpg"
+      },
+      {
+        "name": "Tandem Animal",
+        "img": "\\osamodas\\tandem_animal.jpg"
+      },
+      {
+        "name": "Preserve Naturelle",
+        "img": "\\osamodas\\preserve_naturelle.jpg"
+      },
+      {
+        "name": "Fouet",
+        "img": "\\osamodas\\fouet.jpg"
+      },
+      {
+        "name": "Cravache",
+        "img": "\\osamodas\\cravache.jpg"
+      },
+      {
+        "name": "Rappel",
+        "img": "\\osamodas\\rappel.jpg"
+      },
+      {
+        "name": "Sixte",
+        "img": "\\osamodas\\sixte.jpg"
+      }
+    ],
+    "enutrof": [
+      {
+        "name": "Sac Anime",
+        "img": "\\enutrof\\sac_anime.jpg"
+      },
+      {
+        "name": "Musette Animee",
+        "img": "\\enutrof\\musette_animee.jpg"
+      },
+      {
+        "name": "Lancer de Pieces",
+        "img": "\\enutrof\\lancer_de_pieces.jpg"
+      },
+      {
+        "name": "Orpaillage",
+        "img": "\\enutrof\\orpaillage.jpg"
+      },
+      {
+        "name": "Force de l'Age",
+        "img": "\\enutrof\\force_de_l'age.jpg"
+      },
+      {
+        "name": "Eboulement",
+        "img": "\\enutrof\\eboulement.jpg"
+      },
+      {
+        "name": "Roulage de Pelle",
+        "img": "\\enutrof\\roulage_de_pelle.jpg"
+      },
+      {
+        "name": "Gisement",
+        "img": "\\enutrof\\gisement.jpg"
+      },
+      {
+        "name": "Opportunite",
+        "img": "\\enutrof\\opportunite.jpg"
+      },
+      {
+        "name": "Monnaie Sonnante",
+        "img": "\\enutrof\\monnaie_sonnante.jpg"
+      },
+      {
+        "name": "Acceleration",
+        "img": "\\enutrof\\acceleration.jpg"
+      },
+      {
+        "name": "Deambulation",
+        "img": "\\enutrof\\deambulation.jpg"
+      },
+      {
+        "name": "Boite de Pandore",
+        "img": "\\enutrof\\boite_de_pandore.jpg"
+      },
+      {
+        "name": "Boite a Outils",
+        "img": "\\enutrof\\boite_a_outils.jpg"
+      },
+      {
+        "name": "Remblai",
+        "img": "\\enutrof\\remblai.jpg"
+      },
+      {
+        "name": "Feu de Mine",
+        "img": "\\enutrof\\feu_de_mine.jpg"
+      },
+      {
+        "name": "Clef du Tresor",
+        "img": "\\enutrof\\clef_du_tresor.jpg"
+      },
+      {
+        "name": "Clef de Bras",
+        "img": "\\enutrof\\clef_de_bras.jpg"
+      },
+      {
+        "name": "Pelle Aurifere",
+        "img": "\\enutrof\\pelle_aurifere.jpg"
+      },
+      {
+        "name": "Lancer de Pelle",
+        "img": "\\enutrof\\lancer_de_pelle.jpg"
+      },
+      {
+        "name": "Pelle Animee",
+        "img": "\\enutrof\\pelle_animee.jpg"
+      },
+      {
+        "name": "Beche Animee",
+        "img": "\\enutrof\\beche_animee.jpg"
+      },
+      {
+        "name": "Cupidite",
+        "img": "\\enutrof\\cupidite.jpg"
+      },
+      {
+        "name": "Avarice",
+        "img": "\\enutrof\\avarice.jpg"
+      },
+      {
+        "name": "Abattement",
+        "img": "\\enutrof\\abattement.jpg"
+      },
+      {
+        "name": "Tourbiere",
+        "img": "\\enutrof\\tourbiere.jpg"
+      },
+      {
+        "name": "Maladresse",
+        "img": "\\enutrof\\maladresse.jpg"
+      },
+      {
+        "name": "Age d'Or",
+        "img": "\\enutrof\\age_d'or.jpg"
+      },
+      {
+        "name": "Pelle Fantomatique",
+        "img": "\\enutrof\\pelle_fantomatique.jpg"
+      },
+      {
+        "name": "Beche des Anciens",
+        "img": "\\enutrof\\beche_des_anciens.jpg"
+      },
+      {
+        "name": "Banqueroute",
+        "img": "\\enutrof\\banqueroute.jpg"
+      },
+      {
+        "name": "Obsolescence",
+        "img": "\\enutrof\\obsolescence.jpg"
+      },
+      {
+        "name": "Vivacite",
+        "img": "\\enutrof\\vivacite.jpg"
+      },
+      {
+        "name": "Dernier Recours",
+        "img": "\\enutrof\\dernier_recours.jpg"
+      },
+      {
+        "name": "Pelle des Anciens",
+        "img": "\\enutrof\\pelle_des_anciens.jpg"
+      },
+      {
+        "name": "Tamisage",
+        "img": "\\enutrof\\tamisage.jpg"
+      },
+      {
+        "name": "Retraite Anticipee",
+        "img": "\\enutrof\\retraite_anticipee.jpg"
+      },
+      {
+        "name": "Pelle de Fortune",
+        "img": "\\enutrof\\pelle_de_fortune.jpg"
+      },
+      {
+        "name": "Corruption",
+        "img": "\\enutrof\\corruption.jpg"
+      },
+      {
+        "name": "Decadence",
+        "img": "\\enutrof\\decadence.jpg"
+      },
+      {
+        "name": "Desinvocation",
+        "img": "\\enutrof\\desinvocation.jpg"
+      },
+      {
+        "name": "Coup de Grisou",
+        "img": "\\enutrof\\coup_de_grisou.jpg"
+      },
+      {
+        "name": "Coffre Anime",
+        "img": "\\enutrof\\coffre_anime.jpg"
+      },
+      {
+        "name": "Malle Animee",
+        "img": "\\enutrof\\malle_animee.jpg"
+      }
+    ],
+    "sram": [
+      {
+        "name": "Truanderie",
+        "img": "\\sram\\truanderie.jpg"
+      },
+      {
+        "name": "Chausse-trappe",
+        "img": "\\sram\\chausse-trappe.jpg"
+      },
+      {
+        "name": "Sournoiserie",
+        "img": "\\sram\\sournoiserie.jpg"
+      },
+      {
+        "name": "Coupe-gorge",
+        "img": "\\sram\\coupe-gorge.jpg"
+      },
+      {
+        "name": "Invisibilite",
+        "img": "\\sram\\invisibilite.jpg"
+      },
+      {
+        "name": "Brume",
+        "img": "\\sram\\brume.jpg"
+      },
+      {
+        "name": "Arsenic",
+        "img": "\\sram\\arsenic.jpg"
+      },
+      {
+        "name": "Toxines",
+        "img": "\\sram\\toxines.jpg"
+      },
+      {
+        "name": "Cruaute",
+        "img": "\\sram\\cruaute.jpg"
+      },
+      {
+        "name": "Poisse",
+        "img": "\\sram\\poisse.jpg"
+      },
+      {
+        "name": "Double",
+        "img": "\\sram\\double.jpg"
+      },
+      {
+        "name": "Comploteur",
+        "img": "\\sram\\comploteur.jpg"
+      },
+      {
+        "name": "Piege Sournois",
+        "img": "\\sram\\piege_sournois.jpg"
+      },
+      {
+        "name": "Guet-apens",
+        "img": "\\sram\\guet-apens.jpg"
+      },
+      {
+        "name": "Piege Fangeux",
+        "img": "\\sram\\piege_fangeux.jpg"
+      },
+      {
+        "name": "Epidemie",
+        "img": "\\sram\\epidemie.jpg"
+      },
+      {
+        "name": "Piege Funeste",
+        "img": "\\sram\\piege_funeste.jpg"
+      },
+      {
+        "name": "Effraction",
+        "img": "\\sram\\effraction.jpg"
+      },
+      {
+        "name": "Piege Repulsif",
+        "img": "\\sram\\piege_repulsif.jpg"
+      },
+      {
+        "name": "Piege Effroyable",
+        "img": "\\sram\\piege_effroyable.jpg"
+      },
+      {
+        "name": "Piege d'Immobilisation",
+        "img": "\\sram\\piege_d'immobilisation.jpg"
+      },
+      {
+        "name": "Fosse Commune",
+        "img": "\\sram\\fosse_commune.jpg"
+      },
+      {
+        "name": "Extorsion",
+        "img": "\\sram\\extorsion.jpg"
+      },
+      {
+        "name": "Perquisition",
+        "img": "\\sram\\perquisition.jpg"
+      },
+      {
+        "name": "Arnaque",
+        "img": "\\sram\\arnaque.jpg"
+      },
+      {
+        "name": "Pillage",
+        "img": "\\sram\\pillage.jpg"
+      },
+      {
+        "name": "Larcin",
+        "img": "\\sram\\larcin.jpg"
+      },
+      {
+        "name": "Attaque Mortelle",
+        "img": "\\sram\\attaque_mortelle.jpg"
+      },
+      {
+        "name": "Fourberie",
+        "img": "\\sram\\fourberie.jpg"
+      },
+      {
+        "name": "Injection Toxique",
+        "img": "\\sram\\injection_toxique.jpg"
+      },
+      {
+        "name": "Peur",
+        "img": "\\sram\\peur.jpg"
+      },
+      {
+        "name": "Meprise",
+        "img": "\\sram\\meprise.jpg"
+      },
+      {
+        "name": "Piege de Derive",
+        "img": "\\sram\\piege_de_derive.jpg"
+      },
+      {
+        "name": "Piege Insidieux",
+        "img": "\\sram\\piege_insidieux.jpg"
+      },
+      {
+        "name": "Piege Scelerat",
+        "img": "\\sram\\piege_scelerat.jpg"
+      },
+      {
+        "name": "Piege a Fragmentation",
+        "img": "\\sram\\piege_a_fragmentation.jpg"
+      },
+      {
+        "name": "Concentration de Chakra",
+        "img": "\\sram\\concentration_de_chakra.jpg"
+      },
+      {
+        "name": "Manigance",
+        "img": "\\sram\\manigance.jpg"
+      },
+      {
+        "name": "Piege Mortel",
+        "img": "\\sram\\piege_mortel.jpg"
+      },
+      {
+        "name": "Calamite",
+        "img": "\\sram\\calamite.jpg"
+      },
+      {
+        "name": "Fourvoiement",
+        "img": "\\sram\\fourvoiement.jpg"
+      },
+      {
+        "name": "Perfidie",
+        "img": "\\sram\\perfidie.jpg"
+      },
+      {
+        "name": "Derobade",
+        "img": "\\sram\\derobade.jpg"
+      },
+      {
+        "name": "Marque Mortuaire",
+        "img": "\\sram\\marque_mortuaire.jpg"
+      }
+    ],
+    "xelor": [
+      {
+        "name": "Ralentissement",
+        "img": "\\xelor\\ralentissement.jpg"
+      },
+      {
+        "name": "Souvenir",
+        "img": "\\xelor\\souvenir.jpg"
+      },
+      {
+        "name": "Aiguille",
+        "img": "\\xelor\\aiguille.jpg"
+      },
+      {
+        "name": "Rouage",
+        "img": "\\xelor\\rouage.jpg"
+      },
+      {
+        "name": "Teleportation",
+        "img": "\\xelor\\teleportation.jpg"
+      },
+      {
+        "name": "Retour Spontane",
+        "img": "\\xelor\\retour_spontane.jpg"
+      },
+      {
+        "name": "Fletrissement",
+        "img": "\\xelor\\fletrissement.jpg"
+      },
+      {
+        "name": "Dessechement",
+        "img": "\\xelor\\dessechement.jpg"
+      },
+      {
+        "name": "Rembobinage",
+        "img": "\\xelor\\rembobinage.jpg"
+      },
+      {
+        "name": "Renvoi",
+        "img": "\\xelor\\renvoi.jpg"
+      },
+      {
+        "name": "Frappe de Xelor",
+        "img": "\\xelor\\frappe_de_xelor.jpg"
+      },
+      {
+        "name": "Engrenage",
+        "img": "\\xelor\\engrenage.jpg"
+      },
+      {
+        "name": "Complice",
+        "img": "\\xelor\\complice.jpg"
+      },
+      {
+        "name": "Cadran de Xelor",
+        "img": "\\xelor\\cadran_de_xelor.jpg"
+      },
+      {
+        "name": "Gelure",
+        "img": "\\xelor\\gelure.jpg"
+      },
+      {
+        "name": "Perturbation",
+        "img": "\\xelor\\perturbation.jpg"
+      },
+      {
+        "name": "Sablier de Xelor",
+        "img": "\\xelor\\sablier_de_xelor.jpg"
+      },
+      {
+        "name": "Distorsion Temporelle",
+        "img": "\\xelor\\distorsion_temporelle.jpg"
+      },
+      {
+        "name": "Vol du Temps",
+        "img": "\\xelor\\vol_du_temps.jpg"
+      },
+      {
+        "name": "Petrification",
+        "img": "\\xelor\\petrification.jpg"
+      },
+      {
+        "name": "Flou",
+        "img": "\\xelor\\flou.jpg"
+      },
+      {
+        "name": "Conservation",
+        "img": "\\xelor\\conservation.jpg"
+      },
+      {
+        "name": "Poussiere Temporelle",
+        "img": "\\xelor\\poussiere_temporelle.jpg"
+      },
+      {
+        "name": "Suspension Temporelle",
+        "img": "\\xelor\\suspension_temporelle.jpg"
+      },
+      {
+        "name": "Raulebaque",
+        "img": "\\xelor\\raulebaque.jpg"
+      },
+      {
+        "name": "Instabilite Temporelle",
+        "img": "\\xelor\\instabilite_temporelle.jpg"
+      },
+      {
+        "name": "Demotivation",
+        "img": "\\xelor\\demotivation.jpg"
+      },
+      {
+        "name": "Pendule",
+        "img": "\\xelor\\pendule.jpg"
+      },
+      {
+        "name": "Paradoxe Temporel",
+        "img": "\\xelor\\paradoxe_temporel.jpg"
+      },
+      {
+        "name": "Faille Temporelle",
+        "img": "\\xelor\\faille_temporelle.jpg"
+      },
+      {
+        "name": "Synchro",
+        "img": "\\xelor\\synchro.jpg"
+      },
+      {
+        "name": "Vingt-cinquieme Heure",
+        "img": "\\xelor\\vingt-cinquieme_heure.jpg"
+      },
+      {
+        "name": "Contre",
+        "img": "\\xelor\\contre.jpg"
+      },
+      {
+        "name": "Bouclier Temporel",
+        "img": "\\xelor\\bouclier_temporel.jpg"
+      },
+      {
+        "name": "Fuite",
+        "img": "\\xelor\\fuite.jpg"
+      },
+      {
+        "name": "Premonition",
+        "img": "\\xelor\\premonition.jpg"
+      },
+      {
+        "name": "Horloge",
+        "img": "\\xelor\\horloge.jpg"
+      },
+      {
+        "name": "Clepsydre",
+        "img": "\\xelor\\clepsydre.jpg"
+      },
+      {
+        "name": "Rayon Obscur",
+        "img": "\\xelor\\rayon_obscur.jpg"
+      },
+      {
+        "name": "Rayon Tenebreux",
+        "img": "\\xelor\\rayon_tenebreux.jpg"
+      },
+      {
+        "name": "Momification",
+        "img": "\\xelor\\momification.jpg"
+      },
+      {
+        "name": "Embaumement",
+        "img": "\\xelor\\embaumement.jpg"
+      },
+      {
+        "name": "Desynchronisation",
+        "img": "\\xelor\\desynchronisation.jpg"
+      },
+      {
+        "name": "Glas",
+        "img": "\\xelor\\glas.jpg"
+      }
+    ],
+    "ecaflip": [
+      {
+        "name": "Pile ou Face",
+        "img": "\\ecaflip\\pile_ou_face.jpg"
+      },
+      {
+        "name": "Face ou Pile",
+        "img": "\\ecaflip\\face_ou_pile.jpg"
+      },
+      {
+        "name": "Chance d'Ecaflip",
+        "img": "\\ecaflip\\chance_d'ecaflip.jpg"
+      },
+      {
+        "name": "Aubaine",
+        "img": "\\ecaflip\\aubaine.jpg"
+      },
+      {
+        "name": "Pelotage",
+        "img": "\\ecaflip\\pelotage.jpg"
+      },
+      {
+        "name": "Miaouch",
+        "img": "\\ecaflip\\miaouch.jpg"
+      },
+      {
+        "name": "Bluff",
+        "img": "\\ecaflip\\bluff.jpg"
+      },
+      {
+        "name": "Toupet",
+        "img": "\\ecaflip\\toupet.jpg"
+      },
+      {
+        "name": "Bond du Felin",
+        "img": "\\ecaflip\\bond_du_felin.jpg"
+      },
+      {
+        "name": "Entrechat",
+        "img": "\\ecaflip\\entrechat.jpg"
+      },
+      {
+        "name": "Topkaj",
+        "img": "\\ecaflip\\topkaj.jpg"
+      },
+      {
+        "name": "Feulement",
+        "img": "\\ecaflip\\feulement.jpg"
+      },
+      {
+        "name": "Griffe Invocatrice",
+        "img": "\\ecaflip\\griffe_invocatrice.jpg"
+      },
+      {
+        "name": "Caresse Invocatrice",
+        "img": "\\ecaflip\\caresse_invocatrice.jpg"
+      },
+      {
+        "name": "Perception",
+        "img": "\\ecaflip\\perception.jpg"
+      },
+      {
+        "name": "Rugissement",
+        "img": "\\ecaflip\\rugissement.jpg"
+      },
+      {
+        "name": "Tout ou Rien",
+        "img": "\\ecaflip\\tout_ou_rien.jpg"
+      },
+      {
+        "name": "Peril",
+        "img": "\\ecaflip\\peril.jpg"
+      },
+      {
+        "name": "Roulette",
+        "img": "\\ecaflip\\roulette.jpg"
+      },
+      {
+        "name": "Coup du Sort",
+        "img": "\\ecaflip\\coup_du_sort.jpg"
+      },
+      {
+        "name": "Contrecoup",
+        "img": "\\ecaflip\\contrecoup.jpg"
+      },
+      {
+        "name": "Corollaire",
+        "img": "\\ecaflip\\corollaire.jpg"
+      },
+      {
+        "name": "Langue Rapeuse",
+        "img": "\\ecaflip\\langue_rapeuse.jpg"
+      },
+      {
+        "name": "Lapement",
+        "img": "\\ecaflip\\lapement.jpg"
+      },
+      {
+        "name": "Roue de la Fortune",
+        "img": "\\ecaflip\\roue_de_la_fortune.jpg"
+      },
+      {
+        "name": "Mistigri",
+        "img": "\\ecaflip\\mistigri.jpg"
+      },
+      {
+        "name": "Esprit Felin",
+        "img": "\\ecaflip\\esprit_felin.jpg"
+      },
+      {
+        "name": "Coussinets",
+        "img": "\\ecaflip\\coussinets.jpg"
+      },
+      {
+        "name": "Trefle",
+        "img": "\\ecaflip\\trefle.jpg"
+      },
+      {
+        "name": "Bonne Etoile",
+        "img": "\\ecaflip\\bonne_etoile.jpg"
+      },
+      {
+        "name": "Odorat",
+        "img": "\\ecaflip\\odorat.jpg"
+      },
+      {
+        "name": "Redistribution",
+        "img": "\\ecaflip\\redistribution.jpg"
+      },
+      {
+        "name": "Reflexes",
+        "img": "\\ecaflip\\reflexes.jpg"
+      },
+      {
+        "name": "Fanfaronnade",
+        "img": "\\ecaflip\\fanfaronnade.jpg"
+      },
+      {
+        "name": "Griffe Joueuse",
+        "img": "\\ecaflip\\griffe_joueuse.jpg"
+      },
+      {
+        "name": "Mesaventure",
+        "img": "\\ecaflip\\mesaventure.jpg"
+      },
+      {
+        "name": "Felintion",
+        "img": "\\ecaflip\\felintion.jpg"
+      },
+      {
+        "name": "Kraps",
+        "img": "\\ecaflip\\kraps.jpg"
+      },
+      {
+        "name": "Griffe de Ceangal",
+        "img": "\\ecaflip\\griffe_de_ceangal.jpg"
+      },
+      {
+        "name": "Infortune",
+        "img": "\\ecaflip\\infortune.jpg"
+      },
+      {
+        "name": "Rekop",
+        "img": "\\ecaflip\\rekop.jpg"
+      },
+      {
+        "name": "Tromperie",
+        "img": "\\ecaflip\\tromperie.jpg"
+      },
+      {
+        "name": "Destin d'Ecaflip",
+        "img": "\\ecaflip\\destin_d'ecaflip.jpg"
+      },
+      {
+        "name": "Audace d'Ecaflip",
+        "img": "\\ecaflip\\audace_d'ecaflip.jpg"
+      }
+    ],
+    "eniripsa": [
+      {
+        "name": "Mot d'Amitie",
+        "img": "\\eniripsa\\mot_d'amitie.jpg"
+      },
+      {
+        "name": "Mot Alchimique",
+        "img": "\\eniripsa\\mot_alchimique.jpg"
+      },
+      {
+        "name": "Mot Tapageur",
+        "img": "\\eniripsa\\mot_tapageur.jpg"
+      },
+      {
+        "name": "Cri Assourdissant",
+        "img": "\\eniripsa\\cri_assourdissant.jpg"
+      },
+      {
+        "name": "Mot Espiegle",
+        "img": "\\eniripsa\\mot_espiegle.jpg"
+      },
+      {
+        "name": "Mot Malicieux",
+        "img": "\\eniripsa\\mot_malicieux.jpg"
+      },
+      {
+        "name": "Mot Vampirique",
+        "img": "\\eniripsa\\mot_vampirique.jpg"
+      },
+      {
+        "name": "Sanglots",
+        "img": "\\eniripsa\\sanglots.jpg"
+      },
+      {
+        "name": "Juron",
+        "img": "\\eniripsa\\juron.jpg"
+      },
+      {
+        "name": "Onguent Ancestral",
+        "img": "\\eniripsa\\onguent_ancestral.jpg"
+      },
+      {
+        "name": "Mot Stimulant",
+        "img": "\\eniripsa\\mot_stimulant.jpg"
+      },
+      {
+        "name": "Mot de Declin",
+        "img": "\\eniripsa\\mot_de_declin.jpg"
+      },
+      {
+        "name": "Mot de Frayeur",
+        "img": "\\eniripsa\\mot_de_frayeur.jpg"
+      },
+      {
+        "name": "Scalpel",
+        "img": "\\eniripsa\\scalpel.jpg"
+      },
+      {
+        "name": "Lamentations",
+        "img": "\\eniripsa\\lamentations.jpg"
+      },
+      {
+        "name": "Vacarme",
+        "img": "\\eniripsa\\vacarme.jpg"
+      },
+      {
+        "name": "Mot Turbulent",
+        "img": "\\eniripsa\\mot_turbulent.jpg"
+      },
+      {
+        "name": "Mot Furieux",
+        "img": "\\eniripsa\\mot_furieux.jpg"
+      },
+      {
+        "name": "Mot Vivifiant",
+        "img": "\\eniripsa\\mot_vivifiant.jpg"
+      },
+      {
+        "name": "Mot Galvanisant",
+        "img": "\\eniripsa\\mot_galvanisant.jpg"
+      },
+      {
+        "name": "Mot Farceur",
+        "img": "\\eniripsa\\mot_farceur.jpg"
+      },
+      {
+        "name": "Mot Defendu",
+        "img": "\\eniripsa\\mot_defendu.jpg"
+      },
+      {
+        "name": "Peinture de Guerre",
+        "img": "\\eniripsa\\peinture_de_guerre.jpg"
+      },
+      {
+        "name": "Mot Secret",
+        "img": "\\eniripsa\\mot_secret.jpg"
+      },
+      {
+        "name": "Mot de Jouvence",
+        "img": "\\eniripsa\\mot_de_jouvence.jpg"
+      },
+      {
+        "name": "Mot Deprimant",
+        "img": "\\eniripsa\\mot_deprimant.jpg"
+      },
+      {
+        "name": "Cri de Guerre",
+        "img": "\\eniripsa\\cri_de_guerre.jpg"
+      },
+      {
+        "name": "Mot Rituel",
+        "img": "\\eniripsa\\mot_rituel.jpg"
+      },
+      {
+        "name": "Mot Interdit",
+        "img": "\\eniripsa\\mot_interdit.jpg"
+      },
+      {
+        "name": "Mot Exsangue",
+        "img": "\\eniripsa\\mot_exsangue.jpg"
+      },
+      {
+        "name": "Mot Accablant",
+        "img": "\\eniripsa\\mot_accablant.jpg"
+      },
+      {
+        "name": "Mot Decourageant",
+        "img": "\\eniripsa\\mot_decourageant.jpg"
+      },
+      {
+        "name": "Chapardage",
+        "img": "\\eniripsa\\chapardage.jpg"
+      },
+      {
+        "name": "Mot Distrayant",
+        "img": "\\eniripsa\\mot_distrayant.jpg"
+      },
+      {
+        "name": "Mot Fleuri",
+        "img": "\\eniripsa\\mot_fleuri.jpg"
+      },
+      {
+        "name": "Bosquet Enchante",
+        "img": "\\eniripsa\\bosquet_enchante.jpg"
+      },
+      {
+        "name": "Mot d'Envol",
+        "img": "\\eniripsa\\mot_d'envol.jpg"
+      },
+      {
+        "name": "Fontaine de Jouvence",
+        "img": "\\eniripsa\\fontaine_de_jouvence.jpg"
+      },
+      {
+        "name": "Pinceau Tribal",
+        "img": "\\eniripsa\\pinceau_tribal.jpg"
+      },
+      {
+        "name": "Choeur Strident",
+        "img": "\\eniripsa\\choeur_strident.jpg"
+      },
+      {
+        "name": "Cryotherapie",
+        "img": "\\eniripsa\\cryotherapie.jpg"
+      },
+      {
+        "name": "Murmure",
+        "img": "\\eniripsa\\murmure.jpg"
+      },
+      {
+        "name": "Mot de Reconstitution",
+        "img": "\\eniripsa\\mot_de_reconstitution.jpg"
+      },
+      {
+        "name": "Mot de Solidarite",
+        "img": "\\eniripsa\\mot_de_solidarite.jpg"
+      }
+    ],
+    "iop": [
+      {
+        "name": "Pression",
+        "img": "\\iop\\pression.jpg"
+      },
+      {
+        "name": "Fracture",
+        "img": "\\iop\\fracture.jpg"
+      },
+      {
+        "name": "Bond",
+        "img": "\\iop\\bond.jpg"
+      },
+      {
+        "name": "Agitation",
+        "img": "\\iop\\agitation.jpg"
+      },
+      {
+        "name": "Deferlement",
+        "img": "\\iop\\deferlement.jpg"
+      },
+      {
+        "name": "Anneau Destructeur",
+        "img": "\\iop\\anneau_destructeur.jpg"
+      },
+      {
+        "name": "Epee Divine",
+        "img": "\\iop\\epee_divine.jpg"
+      },
+      {
+        "name": "Couperet",
+        "img": "\\iop\\couperet.jpg"
+      },
+      {
+        "name": "Epee Destructrice",
+        "img": "\\iop\\epee_destructrice.jpg"
+      },
+      {
+        "name": "Accumulation",
+        "img": "\\iop\\accumulation.jpg"
+      },
+      {
+        "name": "Intimidation",
+        "img": "\\iop\\intimidation.jpg"
+      },
+      {
+        "name": "Conquete",
+        "img": "\\iop\\conquete.jpg"
+      },
+      {
+        "name": "Souffle",
+        "img": "\\iop\\souffle.jpg"
+      },
+      {
+        "name": "Violence",
+        "img": "\\iop\\violence.jpg"
+      },
+      {
+        "name": "Rassemblement",
+        "img": "\\iop\\rassemblement.jpg"
+      },
+      {
+        "name": "Vertu",
+        "img": "\\iop\\vertu.jpg"
+      },
+      {
+        "name": "Concentration",
+        "img": "\\iop\\concentration.jpg"
+      },
+      {
+        "name": "Epee du Jugement",
+        "img": "\\iop\\epee_du_jugement.jpg"
+      },
+      {
+        "name": "Ferveur",
+        "img": "\\iop\\ferveur.jpg"
+      },
+      {
+        "name": "Menace",
+        "img": "\\iop\\menace.jpg"
+      },
+      {
+        "name": "Friction",
+        "img": "\\iop\\friction.jpg"
+      },
+      {
+        "name": "Coup pour Coup",
+        "img": "\\iop\\coup_pour_coup.jpg"
+      },
+      {
+        "name": "Duel",
+        "img": "\\iop\\duel.jpg"
+      },
+      {
+        "name": "Emprise",
+        "img": "\\iop\\emprise.jpg"
+      },
+      {
+        "name": "Tempete de Puissance",
+        "img": "\\iop\\tempete_de_puissance.jpg"
+      },
+      {
+        "name": "Tumulte",
+        "img": "\\iop\\tumulte.jpg"
+      },
+      {
+        "name": "Epee Celeste",
+        "img": "\\iop\\epee_celeste.jpg"
+      },
+      {
+        "name": "Zenith",
+        "img": "\\iop\\zenith.jpg"
+      },
+      {
+        "name": "Puissance",
+        "img": "\\iop\\puissance.jpg"
+      },
+      {
+        "name": "Vindicte",
+        "img": "\\iop\\vindicte.jpg"
+      },
+      {
+        "name": "Precipitation",
+        "img": "\\iop\\precipitation.jpg"
+      },
+      {
+        "name": "Determination",
+        "img": "\\iop\\determination.jpg"
+      },
+      {
+        "name": "Endurance",
+        "img": "\\iop\\endurance.jpg"
+      },
+      {
+        "name": "Fustigation",
+        "img": "\\iop\\fustigation.jpg"
+      },
+      {
+        "name": "Epee de Iop",
+        "img": "\\iop\\epee_de_iop.jpg"
+      },
+      {
+        "name": "Pugilat",
+        "img": "\\iop\\pugilat.jpg"
+      },
+      {
+        "name": "Vitalite",
+        "img": "\\iop\\vitalite.jpg"
+      },
+      {
+        "name": "Massacre",
+        "img": "\\iop\\massacre.jpg"
+      },
+      {
+        "name": "Epee du Destin",
+        "img": "\\iop\\epee_du_destin.jpg"
+      },
+      {
+        "name": "Tannee",
+        "img": "\\iop\\tannee.jpg"
+      },
+      {
+        "name": "Fendoir",
+        "img": "\\iop\\fendoir.jpg"
+      },
+      {
+        "name": "Sentence",
+        "img": "\\iop\\sentence.jpg"
+      },
+      {
+        "name": "Fureur",
+        "img": "\\iop\\fureur.jpg"
+      },
+      {
+        "name": "Colere de Iop",
+        "img": "\\iop\\colere_de_iop.jpg"
+      }
+    ],
+    "cra": [
+      {
+        "name": "Fleche Optique",
+        "img": "\\cra\\fleche_optique.jpg"
+      },
+      {
+        "name": "Pluie de Fleches",
+        "img": "\\cra\\pluie_de_fleches.jpg"
+      },
+      {
+        "name": "Fleche Glacee",
+        "img": "\\cra\\fleche_glacee.jpg"
+      },
+      {
+        "name": "Fleche Ralentissante",
+        "img": "\\cra\\fleche_ralentissante.jpg"
+      },
+      {
+        "name": "Fleche de Dispersion",
+        "img": "\\cra\\fleche_de_dispersion.jpg"
+      },
+      {
+        "name": "Represailles",
+        "img": "\\cra\\represailles.jpg"
+      },
+      {
+        "name": "Tir Repulsif",
+        "img": "\\cra\\tir_repulsif.jpg"
+      },
+      {
+        "name": "Fleches Enflammees",
+        "img": "\\cra\\fleches_enflammees.jpg"
+      },
+      {
+        "name": "Fleche Cinglante",
+        "img": "\\cra\\fleche_cinglante.jpg"
+      },
+      {
+        "name": "Tir de Couverture",
+        "img": "\\cra\\tir_de_couverture.jpg"
+      },
+      {
+        "name": "Tirs Eloignes",
+        "img": "\\cra\\tirs_eloignes.jpg"
+      },
+      {
+        "name": "Acuite Absolue",
+        "img": "\\cra\\acuite_absolue.jpg"
+      },
+      {
+        "name": "Fleche d'Immobilisation",
+        "img": "\\cra\\fleche_d'immobilisation.jpg"
+      },
+      {
+        "name": "Fleche Assaillante",
+        "img": "\\cra\\fleche_assaillante.jpg"
+      },
+      {
+        "name": "Tir de Recul",
+        "img": "\\cra\\tir_de_recul.jpg"
+      },
+      {
+        "name": "Tir de Barrage",
+        "img": "\\cra\\tir_de_barrage.jpg"
+      },
+      {
+        "name": "Balise Tactique",
+        "img": "\\cra\\balise_tactique.jpg"
+      },
+      {
+        "name": "Balise de Rappel",
+        "img": "\\cra\\balise_de_rappel.jpg"
+      },
+      {
+        "name": "Fleche Detonante",
+        "img": "\\cra\\fleche_detonante.jpg"
+      },
+      {
+        "name": "Fleche de Tourment",
+        "img": "\\cra\\fleche_de_tourment.jpg"
+      },
+      {
+        "name": "Fleche Empoisonnee",
+        "img": "\\cra\\fleche_empoisonnee.jpg"
+      },
+      {
+        "name": "Fleche Paralysante",
+        "img": "\\cra\\fleche_paralysante.jpg"
+      },
+      {
+        "name": "Tirs Puissants",
+        "img": "\\cra\\tirs_puissants.jpg"
+      },
+      {
+        "name": "Tirs Percants",
+        "img": "\\cra\\tirs_percants.jpg"
+      },
+      {
+        "name": "Fleche de Concentration",
+        "img": "\\cra\\fleche_de_concentration.jpg"
+      },
+      {
+        "name": "Carreaux Destructeurs",
+        "img": "\\cra\\carreaux_destructeurs.jpg"
+      },
+      {
+        "name": "OEil de Taupe",
+        "img": "\\cra\\oeil_de_taupe.jpg"
+      },
+      {
+        "name": "Fleche Ecrasante",
+        "img": "\\cra\\fleche_ecrasante.jpg"
+      },
+      {
+        "name": "Fleches Erosives",
+        "img": "\\cra\\fleches_erosives.jpg"
+      },
+      {
+        "name": "Fleches de Repli",
+        "img": "\\cra\\fleches_de_repli.jpg"
+      },
+      {
+        "name": "Tir Perforant",
+        "img": "\\cra\\tir_perforant.jpg"
+      },
+      {
+        "name": "Fleche Devorante",
+        "img": "\\cra\\fleche_devorante.jpg"
+      },
+      {
+        "name": "Fleche Punitive",
+        "img": "\\cra\\fleche_punitive.jpg"
+      },
+      {
+        "name": "Fleche du Jugement",
+        "img": "\\cra\\fleche_du_jugement.jpg"
+      },
+      {
+        "name": "OEil pour OEil",
+        "img": "\\cra\\oeil_pour_oeil.jpg"
+      },
+      {
+        "name": "Miroir aux Alouettes",
+        "img": "\\cra\\miroir_aux_alouettes.jpg"
+      },
+      {
+        "name": "Fleche d'Expiation",
+        "img": "\\cra\\fleche_d'expiation.jpg"
+      },
+      {
+        "name": "Fleche de Redemption",
+        "img": "\\cra\\fleche_de_redemption.jpg"
+      },
+      {
+        "name": "Fleche Explosive",
+        "img": "\\cra\\fleche_explosive.jpg"
+      },
+      {
+        "name": "Fleche Fulminante",
+        "img": "\\cra\\fleche_fulminante.jpg"
+      },
+      {
+        "name": "Fleche Persecutrice",
+        "img": "\\cra\\fleche_persecutrice.jpg"
+      },
+      {
+        "name": "Fleche Tyrannique",
+        "img": "\\cra\\fleche_tyrannique.jpg"
+      },
+      {
+        "name": "Vendetta",
+        "img": "\\cra\\vendetta.jpg"
+      },
+      {
+        "name": "Sentinelle",
+        "img": "\\cra\\sentinelle.jpg"
+      }
+    ],
+    "sadida": [
+      {
+        "name": "Ronce",
+        "img": "\\sadida\\ronce.jpg"
+      },
+      {
+        "name": "Broussaille Empoisonnee",
+        "img": "\\sadida\\broussaille_empoisonnee.jpg"
+      },
+      {
+        "name": "Arbre",
+        "img": "\\sadida\\arbre.jpg"
+      },
+      {
+        "name": "Arbre Feuillu",
+        "img": "\\sadida\\arbre_feuillu.jpg"
+      },
+      {
+        "name": "Folle",
+        "img": "\\sadida\\folle.jpg"
+      },
+      {
+        "name": "Folle Transmutee",
+        "img": "\\sadida\\folle_transmutee.jpg"
+      },
+      {
+        "name": "Braises Epineuses",
+        "img": "\\sadida\\braises_epineuses.jpg"
+      },
+      {
+        "name": "Mangrove",
+        "img": "\\sadida\\mangrove.jpg"
+      },
+      {
+        "name": "Bloqueuse",
+        "img": "\\sadida\\bloqueuse.jpg"
+      },
+      {
+        "name": "Bloqueuse Transmutee",
+        "img": "\\sadida\\bloqueuse_transmutee.jpg"
+      },
+      {
+        "name": "Larme",
+        "img": "\\sadida\\larme.jpg"
+      },
+      {
+        "name": "Montee de Seve",
+        "img": "\\sadida\\montee_de_seve.jpg"
+      },
+      {
+        "name": "Poison Paralysant",
+        "img": "\\sadida\\poison_paralysant.jpg"
+      },
+      {
+        "name": "Contamination",
+        "img": "\\sadida\\contamination.jpg"
+      },
+      {
+        "name": "Ronce Apaisante",
+        "img": "\\sadida\\ronce_apaisante.jpg"
+      },
+      {
+        "name": "Rempotage",
+        "img": "\\sadida\\rempotage.jpg"
+      },
+      {
+        "name": "Puissance Sylvestre",
+        "img": "\\sadida\\puissance_sylvestre.jpg"
+      },
+      {
+        "name": "Influence Vegetale",
+        "img": "\\sadida\\influence_vegetale.jpg"
+      },
+      {
+        "name": "Sacrifiee",
+        "img": "\\sadida\\sacrifiee.jpg"
+      },
+      {
+        "name": "Sacrifiee Transmutee",
+        "img": "\\sadida\\sacrifiee_transmutee.jpg"
+      },
+      {
+        "name": "Tremblement",
+        "img": "\\sadida\\tremblement.jpg"
+      },
+      {
+        "name": "Secousse",
+        "img": "\\sadida\\secousse.jpg"
+      },
+      {
+        "name": "Don Naturel",
+        "img": "\\sadida\\don_naturel.jpg"
+      },
+      {
+        "name": "Inoculation",
+        "img": "\\sadida\\inoculation.jpg"
+      },
+      {
+        "name": "Ronces Multiples",
+        "img": "\\sadida\\ronces_multiples.jpg"
+      },
+      {
+        "name": "Fleau",
+        "img": "\\sadida\\fleau.jpg"
+      },
+      {
+        "name": "Sacrifice Poupesque",
+        "img": "\\sadida\\sacrifice_poupesque.jpg"
+      },
+      {
+        "name": "Force de la Nature",
+        "img": "\\sadida\\force_de_la_nature.jpg"
+      },
+      {
+        "name": "Vent Empoisonne",
+        "img": "\\sadida\\vent_empoisonne.jpg"
+      },
+      {
+        "name": "Altruisme Vegetal",
+        "img": "\\sadida\\altruisme_vegetal.jpg"
+      },
+      {
+        "name": "Gonflable",
+        "img": "\\sadida\\gonflable.jpg"
+      },
+      {
+        "name": "Gonflable Transmutee",
+        "img": "\\sadida\\gonflable_transmutee.jpg"
+      },
+      {
+        "name": "Ronces Agressives",
+        "img": "\\sadida\\ronces_agressives.jpg"
+      },
+      {
+        "name": "Ronces Harcelantes",
+        "img": "\\sadida\\ronces_harcelantes.jpg"
+      },
+      {
+        "name": "Herbe Folle",
+        "img": "\\sadida\\herbe_folle.jpg"
+      },
+      {
+        "name": "Contagion",
+        "img": "\\sadida\\contagion.jpg"
+      },
+      {
+        "name": "Arbre de Vie",
+        "img": "\\sadida\\arbre_de_vie.jpg"
+      },
+      {
+        "name": "Harmonie",
+        "img": "\\sadida\\harmonie.jpg"
+      },
+      {
+        "name": "Feu de Brousse",
+        "img": "\\sadida\\feu_de_brousse.jpg"
+      },
+      {
+        "name": "Malediction Vaudou",
+        "img": "\\sadida\\malediction_vaudou.jpg"
+      },
+      {
+        "name": "Ronce Insolente",
+        "img": "\\sadida\\ronce_insolente.jpg"
+      },
+      {
+        "name": "Ronce Paralysante",
+        "img": "\\sadida\\ronce_paralysante.jpg"
+      },
+      {
+        "name": "Surpuissante",
+        "img": "\\sadida\\surpuissante.jpg"
+      },
+      {
+        "name": "Surpuissante Transmutee",
+        "img": "\\sadida\\surpuissante_transmutee.jpg"
+      }
+    ],
+    "sacrieur": [
+      {
+        "name": "Absorption",
+        "img": "\\sacrieur\\absorption.jpg"
+      },
+      {
+        "name": "Hecatombe",
+        "img": "\\sacrieur\\hecatombe.jpg"
+      },
+      {
+        "name": "Attirance",
+        "img": "\\sacrieur\\attirance.jpg"
+      },
+      {
+        "name": "Perfusion",
+        "img": "\\sacrieur\\perfusion.jpg"
+      },
+      {
+        "name": "Hemorragie",
+        "img": "\\sacrieur\\hemorragie.jpg"
+      },
+      {
+        "name": "Desolation",
+        "img": "\\sacrieur\\desolation.jpg"
+      },
+      {
+        "name": "Supplice",
+        "img": "\\sacrieur\\supplice.jpg"
+      },
+      {
+        "name": "Bain de Sang",
+        "img": "\\sacrieur\\bain_de_sang.jpg"
+      },
+      {
+        "name": "Stase",
+        "img": "\\sacrieur\\stase.jpg"
+      },
+      {
+        "name": "Dissolution",
+        "img": "\\sacrieur\\dissolution.jpg"
+      },
+      {
+        "name": "Mutilation",
+        "img": "\\sacrieur\\mutilation.jpg"
+      },
+      {
+        "name": "Chatiment",
+        "img": "\\sacrieur\\chatiment.jpg"
+      },
+      {
+        "name": "Epee Vorace",
+        "img": "\\sacrieur\\epee_vorace.jpg"
+      },
+      {
+        "name": "Epee Dansante",
+        "img": "\\sacrieur\\epee_dansante.jpg"
+      },
+      {
+        "name": "Ravage",
+        "img": "\\sacrieur\\ravage.jpg"
+      },
+      {
+        "name": "Fulgurance",
+        "img": "\\sacrieur\\fulgurance.jpg"
+      },
+      {
+        "name": "Assaut",
+        "img": "\\sacrieur\\assaut.jpg"
+      },
+      {
+        "name": "Aversion",
+        "img": "\\sacrieur\\aversion.jpg"
+      },
+      {
+        "name": "Transposition",
+        "img": "\\sacrieur\\transposition.jpg"
+      },
+      {
+        "name": "Fluctuation",
+        "img": "\\sacrieur\\fluctuation.jpg"
+      },
+      {
+        "name": "Condensation",
+        "img": "\\sacrieur\\condensation.jpg"
+      },
+      {
+        "name": "Afflux",
+        "img": "\\sacrieur\\afflux.jpg"
+      },
+      {
+        "name": "Hostilite",
+        "img": "\\sacrieur\\hostilite.jpg"
+      },
+      {
+        "name": "Projection",
+        "img": "\\sacrieur\\projection.jpg"
+      },
+      {
+        "name": "Couronne d'Epines",
+        "img": "\\sacrieur\\couronne_d'epines.jpg"
+      },
+      {
+        "name": "Pilori",
+        "img": "\\sacrieur\\pilori.jpg"
+      },
+      {
+        "name": "Transfusion",
+        "img": "\\sacrieur\\transfusion.jpg"
+      },
+      {
+        "name": "Liens du Sang",
+        "img": "\\sacrieur\\liens_du_sang.jpg"
+      },
+      {
+        "name": "Nervosite",
+        "img": "\\sacrieur\\nervosite.jpg"
+      },
+      {
+        "name": "Carnage",
+        "img": "\\sacrieur\\carnage.jpg"
+      },
+      {
+        "name": "Decimation",
+        "img": "\\sacrieur\\decimation.jpg"
+      },
+      {
+        "name": "Dechainement",
+        "img": "\\sacrieur\\dechainement.jpg"
+      },
+      {
+        "name": "Sacrifice",
+        "img": "\\sacrieur\\sacrifice.jpg"
+      },
+      {
+        "name": "Penitence",
+        "img": "\\sacrieur\\penitence.jpg"
+      },
+      {
+        "name": "Furie",
+        "img": "\\sacrieur\\furie.jpg"
+      },
+      {
+        "name": "Immolation",
+        "img": "\\sacrieur\\immolation.jpg"
+      },
+      {
+        "name": "Douleur Cuisante",
+        "img": "\\sacrieur\\douleur_cuisante.jpg"
+      },
+      {
+        "name": "Entaille",
+        "img": "\\sacrieur\\entaille.jpg"
+      },
+      {
+        "name": "Libation",
+        "img": "\\sacrieur\\libation.jpg"
+      },
+      {
+        "name": "Pacte de Sang",
+        "img": "\\sacrieur\\pacte_de_sang.jpg"
+      },
+      {
+        "name": "Berserk",
+        "img": "\\sacrieur\\berserk.jpg"
+      },
+      {
+        "name": "Rituel de Jashin",
+        "img": "\\sacrieur\\rituel_de_jashin.jpg"
+      },
+      {
+        "name": "Punition",
+        "img": "\\sacrieur\\punition.jpg"
+      },
+      {
+        "name": "Folie Sanguinaire",
+        "img": "\\sacrieur\\folie_sanguinaire.jpg"
+      }
+    ],
+    "pandawa": [
+      {
+        "name": "Paume Explosive",
+        "img": "\\pandawa\\paume_explosive.jpg"
+      },
+      {
+        "name": "Distillation",
+        "img": "\\pandawa\\distillation.jpg"
+      },
+      {
+        "name": "Gueule de Bois",
+        "img": "\\pandawa\\gueule_de_bois.jpg"
+      },
+      {
+        "name": "Souffle Enflamme",
+        "img": "\\pandawa\\souffle_enflamme.jpg"
+      },
+      {
+        "name": "Bombance",
+        "img": "\\pandawa\\bombance.jpg"
+      },
+      {
+        "name": "Picole",
+        "img": "\\pandawa\\picole.jpg"
+      },
+      {
+        "name": "Karcham",
+        "img": "\\pandawa\\karcham.jpg"
+      },
+      {
+        "name": "Chamrak",
+        "img": "\\pandawa\\chamrak.jpg"
+      },
+      {
+        "name": "Schnaps",
+        "img": "\\pandawa\\schnaps.jpg"
+      },
+      {
+        "name": "Ribote",
+        "img": "\\pandawa\\ribote.jpg"
+      },
+      {
+        "name": "Ethylo",
+        "img": "\\pandawa\\ethylo.jpg"
+      },
+      {
+        "name": "Engourdissement",
+        "img": "\\pandawa\\engourdissement.jpg"
+      },
+      {
+        "name": "Epouvante",
+        "img": "\\pandawa\\epouvante.jpg"
+      },
+      {
+        "name": "Consolation",
+        "img": "\\pandawa\\consolation.jpg"
+      },
+      {
+        "name": "Brancard",
+        "img": "\\pandawa\\brancard.jpg"
+      },
+      {
+        "name": "Alcoshu",
+        "img": "\\pandawa\\alcoshu.jpg"
+      },
+      {
+        "name": "Pandikulation",
+        "img": "\\pandawa\\pandikulation.jpg"
+      },
+      {
+        "name": "Liqueur",
+        "img": "\\pandawa\\liqueur.jpg"
+      },
+      {
+        "name": "Ebriete",
+        "img": "\\pandawa\\ebriete.jpg"
+      },
+      {
+        "name": "Ivresse",
+        "img": "\\pandawa\\ivresse.jpg"
+      },
+      {
+        "name": "Stabilisation",
+        "img": "\\pandawa\\stabilisation.jpg"
+      },
+      {
+        "name": "Varappe",
+        "img": "\\pandawa\\varappe.jpg"
+      },
+      {
+        "name": "Propulsion",
+        "img": "\\pandawa\\propulsion.jpg"
+      },
+      {
+        "name": "Absinthe",
+        "img": "\\pandawa\\absinthe.jpg"
+      },
+      {
+        "name": "Eau-de-vie",
+        "img": "\\pandawa\\eau-de-vie.jpg"
+      },
+      {
+        "name": "Bistouille",
+        "img": "\\pandawa\\bistouille.jpg"
+      },
+      {
+        "name": "Souillure",
+        "img": "\\pandawa\\souillure.jpg"
+      },
+      {
+        "name": "Brassage",
+        "img": "\\pandawa\\brassage.jpg"
+      },
+      {
+        "name": "Fermentation",
+        "img": "\\pandawa\\fermentation.jpg"
+      },
+      {
+        "name": "Bambouseraie",
+        "img": "\\pandawa\\bambouseraie.jpg"
+      },
+      {
+        "name": "Eviction",
+        "img": "\\pandawa\\eviction.jpg"
+      },
+      {
+        "name": "Nausee",
+        "img": "\\pandawa\\nausee.jpg"
+      },
+      {
+        "name": "Flasque Explosive",
+        "img": "\\pandawa\\flasque_explosive.jpg"
+      },
+      {
+        "name": "Pandatak",
+        "img": "\\pandawa\\pandatak.jpg"
+      },
+      {
+        "name": "Lait de Bambou",
+        "img": "\\pandawa\\lait_de_bambou.jpg"
+      },
+      {
+        "name": "Prohibition",
+        "img": "\\pandawa\\prohibition.jpg"
+      },
+      {
+        "name": "Souffle Alcoolise",
+        "img": "\\pandawa\\souffle_alcoolise.jpg"
+      },
+      {
+        "name": "Cascade",
+        "img": "\\pandawa\\cascade.jpg"
+      },
+      {
+        "name": "Vague a Lame",
+        "img": "\\pandawa\\vague_a_lame.jpg"
+      },
+      {
+        "name": "Pandjiu",
+        "img": "\\pandawa\\pandjiu.jpg"
+      },
+      {
+        "name": "Lien Spiritueux",
+        "img": "\\pandawa\\lien_spiritueux.jpg"
+      },
+      {
+        "name": "Bambou",
+        "img": "\\pandawa\\bambou.jpg"
+      },
+      {
+        "name": "Pandanlku",
+        "img": "\\pandawa\\pandanlku.jpg"
+      },
+      {
+        "name": "Main de Pandawa",
+        "img": "\\pandawa\\main_de_pandawa.jpg"
+      }
+    ],
+    "roublard": [
+      {
+        "name": "Detonateur",
+        "img": "\\roublard\\detonateur.jpg"
+      },
+      {
+        "name": "Etoupille",
+        "img": "\\roublard\\etoupille.jpg"
+      },
+      {
+        "name": "Tornabombe",
+        "img": "\\roublard\\tornabombe.jpg"
+      },
+      {
+        "name": "Tornabombe Resiliente",
+        "img": "\\roublard\\tornabombe_resiliente.jpg"
+      },
+      {
+        "name": "Explobombe",
+        "img": "\\roublard\\explobombe.jpg"
+      },
+      {
+        "name": "Explobombe Resiliente",
+        "img": "\\roublard\\explobombe_resiliente.jpg"
+      },
+      {
+        "name": "Botte",
+        "img": "\\roublard\\botte.jpg"
+      },
+      {
+        "name": "Ruse",
+        "img": "\\roublard\\ruse.jpg"
+      },
+      {
+        "name": "Pulsar",
+        "img": "\\roublard\\pulsar.jpg"
+      },
+      {
+        "name": "Shrapnel",
+        "img": "\\roublard\\shrapnel.jpg"
+      },
+      {
+        "name": "Aimantation",
+        "img": "\\roublard\\aimantation.jpg"
+      },
+      {
+        "name": "Croisement",
+        "img": "\\roublard\\croisement.jpg"
+      },
+      {
+        "name": "Espingole",
+        "img": "\\roublard\\espingole.jpg"
+      },
+      {
+        "name": "Obliteration",
+        "img": "\\roublard\\obliteration.jpg"
+      },
+      {
+        "name": "Entourloupe",
+        "img": "\\roublard\\entourloupe.jpg"
+      },
+      {
+        "name": "Bombe Ambulante",
+        "img": "\\roublard\\bombe_ambulante.jpg"
+      },
+      {
+        "name": "Sismobombe",
+        "img": "\\roublard\\sismobombe.jpg"
+      },
+      {
+        "name": "Sismobombe Resiliente",
+        "img": "\\roublard\\sismobombe_resiliente.jpg"
+      },
+      {
+        "name": "Bombe a Eau",
+        "img": "\\roublard\\bombe_a_eau.jpg"
+      },
+      {
+        "name": "Bombe a Eau Resiliente",
+        "img": "\\roublard\\bombe_a_eau_resiliente.jpg"
+      },
+      {
+        "name": "Roublabot",
+        "img": "\\roublard\\roublabot.jpg"
+      },
+      {
+        "name": "Megabombe",
+        "img": "\\roublard\\megabombe.jpg"
+      },
+      {
+        "name": "Bombarde",
+        "img": "\\roublard\\bombarde.jpg"
+      },
+      {
+        "name": "Mitraille",
+        "img": "\\roublard\\mitraille.jpg"
+      },
+      {
+        "name": "Recel",
+        "img": "\\roublard\\recel.jpg"
+      },
+      {
+        "name": "Plombage",
+        "img": "\\roublard\\plombage.jpg"
+      },
+      {
+        "name": "Roublardise",
+        "img": "\\roublard\\roublardise.jpg"
+      },
+      {
+        "name": "Stratageme",
+        "img": "\\roublard\\stratageme.jpg"
+      },
+      {
+        "name": "Extraction",
+        "img": "\\roublard\\extraction.jpg"
+      },
+      {
+        "name": "Cadence",
+        "img": "\\roublard\\cadence.jpg"
+      },
+      {
+        "name": "Remission",
+        "img": "\\roublard\\remission.jpg"
+      },
+      {
+        "name": "Casemate",
+        "img": "\\roublard\\casemate.jpg"
+      },
+      {
+        "name": "Dagues Boomerang",
+        "img": "\\roublard\\dagues_boomerang.jpg"
+      },
+      {
+        "name": "Tromblon",
+        "img": "\\roublard\\tromblon.jpg"
+      },
+      {
+        "name": "Poudre",
+        "img": "\\roublard\\poudre.jpg"
+      },
+      {
+        "name": "Bombe Collante",
+        "img": "\\roublard\\bombe_collante.jpg"
+      },
+      {
+        "name": "Mousquet",
+        "img": "\\roublard\\mousquet.jpg"
+      },
+      {
+        "name": "Grenaille",
+        "img": "\\roublard\\grenaille.jpg"
+      },
+      {
+        "name": "Dernier Souffle",
+        "img": "\\roublard\\dernier_souffle.jpg"
+      },
+      {
+        "name": "Piege Magnetique",
+        "img": "\\roublard\\piege_magnetique.jpg"
+      },
+      {
+        "name": "Resquille",
+        "img": "\\roublard\\resquille.jpg"
+      },
+      {
+        "name": "Arquebuse",
+        "img": "\\roublard\\arquebuse.jpg"
+      },
+      {
+        "name": "Kaboom",
+        "img": "\\roublard\\kaboom.jpg"
+      },
+      {
+        "name": "Imposture",
+        "img": "\\roublard\\imposture.jpg"
+      }
+    ],
+    "zobal": [
+      {
+        "name": "Masque de l'Intrepide",
+        "img": "\\zobal\\masque_de_l'intrepide.jpg"
+      },
+      {
+        "name": "Masque de l'Infatigable",
+        "img": "\\zobal\\masque_de_l'infatigable.jpg"
+      },
+      {
+        "name": "Masque du Pleutre",
+        "img": "\\zobal\\masque_du_pleutre.jpg"
+      },
+      {
+        "name": "Masque du Couard",
+        "img": "\\zobal\\masque_du_couard.jpg"
+      },
+      {
+        "name": "Brincadeira",
+        "img": "\\zobal\\brincadeira.jpg"
+      },
+      {
+        "name": "Picada",
+        "img": "\\zobal\\picada.jpg"
+      },
+      {
+        "name": "Catalepsie",
+        "img": "\\zobal\\catalepsie.jpg"
+      },
+      {
+        "name": "Appeau",
+        "img": "\\zobal\\appeau.jpg"
+      },
+      {
+        "name": "Masque du Psychopathe",
+        "img": "\\zobal\\masque_du_psychopathe.jpg"
+      },
+      {
+        "name": "Masque de l'Hysterique",
+        "img": "\\zobal\\masque_de_l'hysterique.jpg"
+      },
+      {
+        "name": "Cabriole",
+        "img": "\\zobal\\cabriole.jpg"
+      },
+      {
+        "name": "Purgatorio",
+        "img": "\\zobal\\purgatorio.jpg"
+      },
+      {
+        "name": "Appui",
+        "img": "\\zobal\\appui.jpg"
+      },
+      {
+        "name": "Pivot",
+        "img": "\\zobal\\pivot.jpg"
+      },
+      {
+        "name": "Parafuso",
+        "img": "\\zobal\\parafuso.jpg"
+      },
+      {
+        "name": "Martelo",
+        "img": "\\zobal\\martelo.jpg"
+      },
+      {
+        "name": "Plastron",
+        "img": "\\zobal\\plastron.jpg"
+      },
+      {
+        "name": "Ginga",
+        "img": "\\zobal\\ginga.jpg"
+      },
+      {
+        "name": "Reuche",
+        "img": "\\zobal\\reuche.jpg"
+      },
+      {
+        "name": "Scudo",
+        "img": "\\zobal\\scudo.jpg"
+      },
+      {
+        "name": "Inferno",
+        "img": "\\zobal\\inferno.jpg"
+      },
+      {
+        "name": "Distance",
+        "img": "\\zobal\\distance.jpg"
+      },
+      {
+        "name": "Tortoruga",
+        "img": "\\zobal\\tortoruga.jpg"
+      },
+      {
+        "name": "Armadur",
+        "img": "\\zobal\\armadur.jpg"
+      },
+      {
+        "name": "Fougue",
+        "img": "\\zobal\\fougue.jpg"
+      },
+      {
+        "name": "Mascarade",
+        "img": "\\zobal\\mascarade.jpg"
+      },
+      {
+        "name": "Furia",
+        "img": "\\zobal\\furia.jpg"
+      },
+      {
+        "name": "Bocciara",
+        "img": "\\zobal\\bocciara.jpg"
+      },
+      {
+        "name": "Debandade",
+        "img": "\\zobal\\debandade.jpg"
+      },
+      {
+        "name": "Comedie",
+        "img": "\\zobal\\comedie.jpg"
+      },
+      {
+        "name": "Ponteira",
+        "img": "\\zobal\\ponteira.jpg"
+      },
+      {
+        "name": "Agular",
+        "img": "\\zobal\\agular.jpg"
+      },
+      {
+        "name": "Transe",
+        "img": "\\zobal\\transe.jpg"
+      },
+      {
+        "name": "Nevrose",
+        "img": "\\zobal\\nevrose.jpg"
+      },
+      {
+        "name": "Cavalcade",
+        "img": "\\zobal\\cavalcade.jpg"
+      },
+      {
+        "name": "Apostasie",
+        "img": "\\zobal\\apostasie.jpg"
+      },
+      {
+        "name": "Grimace",
+        "img": "\\zobal\\grimace.jpg"
+      },
+      {
+        "name": "Diffraction",
+        "img": "\\zobal\\diffraction.jpg"
+      },
+      {
+        "name": "Apathie",
+        "img": "\\zobal\\apathie.jpg"
+      },
+      {
+        "name": "Retention",
+        "img": "\\zobal\\retention.jpg"
+      },
+      {
+        "name": "Boliche",
+        "img": "\\zobal\\boliche.jpg"
+      },
+      {
+        "name": "Ronda",
+        "img": "\\zobal\\ronda.jpg"
+      },
+      {
+        "name": "Carnavalo",
+        "img": "\\zobal\\carnavalo.jpg"
+      },
+      {
+        "name": "Transfiguration",
+        "img": "\\zobal\\transfiguration.jpg"
+      }
+    ],
+    "steamer": [
+      {
+        "name": "Harponneuse",
+        "img": "\\steamer\\harponneuse.jpg"
+      },
+      {
+        "name": "Chalutier",
+        "img": "\\steamer\\chalutier.jpg"
+      },
+      {
+        "name": "Longue-vue",
+        "img": "\\steamer\\longue-vue.jpg"
+      },
+      {
+        "name": "Corrosion",
+        "img": "\\steamer\\corrosion.jpg"
+      },
+      {
+        "name": "Amarrage",
+        "img": "\\steamer\\amarrage.jpg"
+      },
+      {
+        "name": "Vapor",
+        "img": "\\steamer\\vapor.jpg"
+      },
+      {
+        "name": "Evolution",
+        "img": "\\steamer\\evolution.jpg"
+      },
+      {
+        "name": "Surtension",
+        "img": "\\steamer\\surtension.jpg"
+      },
+      {
+        "name": "Torpille",
+        "img": "\\steamer\\torpille.jpg"
+      },
+      {
+        "name": "Gouvernail",
+        "img": "\\steamer\\gouvernail.jpg"
+      },
+      {
+        "name": "Sabotage",
+        "img": "\\steamer\\sabotage.jpg"
+      },
+      {
+        "name": "Periscope",
+        "img": "\\steamer\\periscope.jpg"
+      },
+      {
+        "name": "Gardienne",
+        "img": "\\steamer\\gardienne.jpg"
+      },
+      {
+        "name": "Foreuse",
+        "img": "\\steamer\\foreuse.jpg"
+      },
+      {
+        "name": "Aspiration",
+        "img": "\\steamer\\aspiration.jpg"
+      },
+      {
+        "name": "Piston",
+        "img": "\\steamer\\piston.jpg"
+      },
+      {
+        "name": "Maree",
+        "img": "\\steamer\\maree.jpg"
+      },
+      {
+        "name": "Court-circuit",
+        "img": "\\steamer\\court-circuit.jpg"
+      },
+      {
+        "name": "Turbine",
+        "img": "\\steamer\\turbine.jpg"
+      },
+      {
+        "name": "Flibuste",
+        "img": "\\steamer\\flibuste.jpg"
+      },
+      {
+        "name": "Tactirelle",
+        "img": "\\steamer\\tactirelle.jpg"
+      },
+      {
+        "name": "Bathyscaphe",
+        "img": "\\steamer\\bathyscaphe.jpg"
+      },
+      {
+        "name": "Scaphandre",
+        "img": "\\steamer\\scaphandre.jpg"
+      },
+      {
+        "name": "Blindage",
+        "img": "\\steamer\\blindage.jpg"
+      },
+      {
+        "name": "Foene",
+        "img": "\\steamer\\foene.jpg"
+      },
+      {
+        "name": "Cabestan",
+        "img": "\\steamer\\cabestan.jpg"
+      },
+      {
+        "name": "Ressac",
+        "img": "\\steamer\\ressac.jpg"
+      },
+      {
+        "name": "Ecume",
+        "img": "\\steamer\\ecume.jpg"
+      },
+      {
+        "name": "Sonar",
+        "img": "\\steamer\\sonar.jpg"
+      },
+      {
+        "name": "Embuscade",
+        "img": "\\steamer\\embuscade.jpg"
+      },
+      {
+        "name": "Courant",
+        "img": "\\steamer\\courant.jpg"
+      },
+      {
+        "name": "Harmattan",
+        "img": "\\steamer\\harmattan.jpg"
+      },
+      {
+        "name": "Secourisme",
+        "img": "\\steamer\\secourisme.jpg"
+      },
+      {
+        "name": "Sauvetage",
+        "img": "\\steamer\\sauvetage.jpg"
+      },
+      {
+        "name": "Ancrage",
+        "img": "\\steamer\\ancrage.jpg"
+      },
+      {
+        "name": "Soupape",
+        "img": "\\steamer\\soupape.jpg"
+      },
+      {
+        "name": "Plongee",
+        "img": "\\steamer\\plongee.jpg"
+      },
+      {
+        "name": "Submersion",
+        "img": "\\steamer\\submersion.jpg"
+      },
+      {
+        "name": "Compas",
+        "img": "\\steamer\\compas.jpg"
+      },
+      {
+        "name": "Brise l'Ame",
+        "img": "\\steamer\\brise_l'ame.jpg"
+      },
+      {
+        "name": "Assistance",
+        "img": "\\steamer\\assistance.jpg"
+      },
+      {
+        "name": "Aiguillage",
+        "img": "\\steamer\\aiguillage.jpg"
+      },
+      {
+        "name": "Boussole",
+        "img": "\\steamer\\boussole.jpg"
+      },
+      {
+        "name": "Recursivite",
+        "img": "\\steamer\\recursivite.jpg"
+      }
+    ],
+    "eliotrope": [
+      {
+        "name": "Portail",
+        "img": "\\eliotrope\\portail.jpg"
+      },
+      {
+        "name": "Portail Flexible",
+        "img": "\\eliotrope\\portail_flexible.jpg"
+      },
+      {
+        "name": "Affront",
+        "img": "\\eliotrope\\affront.jpg"
+      },
+      {
+        "name": "Mepris",
+        "img": "\\eliotrope\\mepris.jpg"
+      },
+      {
+        "name": "Audace",
+        "img": "\\eliotrope\\audace.jpg"
+      },
+      {
+        "name": "Tribulation",
+        "img": "\\eliotrope\\tribulation.jpg"
+      },
+      {
+        "name": "Commotion",
+        "img": "\\eliotrope\\commotion.jpg"
+      },
+      {
+        "name": "Convulsion",
+        "img": "\\eliotrope\\convulsion.jpg"
+      },
+      {
+        "name": "Rayon de Wakfu",
+        "img": "\\eliotrope\\rayon_de_wakfu.jpg"
+      },
+      {
+        "name": "Faisceau",
+        "img": "\\eliotrope\\faisceau.jpg"
+      },
+      {
+        "name": "Neutral",
+        "img": "\\eliotrope\\neutral.jpg"
+      },
+      {
+        "name": "Interruption",
+        "img": "\\eliotrope\\interruption.jpg"
+      },
+      {
+        "name": "Offense",
+        "img": "\\eliotrope\\offense.jpg"
+      },
+      {
+        "name": "Aplomb",
+        "img": "\\eliotrope\\aplomb.jpg"
+      },
+      {
+        "name": "Etirement",
+        "img": "\\eliotrope\\etirement.jpg"
+      },
+      {
+        "name": "Contraction",
+        "img": "\\eliotrope\\contraction.jpg"
+      },
+      {
+        "name": "Therapie",
+        "img": "\\eliotrope\\therapie.jpg"
+      },
+      {
+        "name": "Camouflet",
+        "img": "\\eliotrope\\camouflet.jpg"
+      },
+      {
+        "name": "Distribution",
+        "img": "\\eliotrope\\distribution.jpg"
+      },
+      {
+        "name": "Diffusion",
+        "img": "\\eliotrope\\diffusion.jpg"
+      },
+      {
+        "name": "Stupeur",
+        "img": "\\eliotrope\\stupeur.jpg"
+      },
+      {
+        "name": "Distorsion",
+        "img": "\\eliotrope\\distorsion.jpg"
+      },
+      {
+        "name": "Brimade",
+        "img": "\\eliotrope\\brimade.jpg"
+      },
+      {
+        "name": "Sermon",
+        "img": "\\eliotrope\\sermon.jpg"
+      },
+      {
+        "name": "Cicatrisation",
+        "img": "\\eliotrope\\cicatrisation.jpg"
+      },
+      {
+        "name": "Conjuration",
+        "img": "\\eliotrope\\conjuration.jpg"
+      },
+      {
+        "name": "Affliction",
+        "img": "\\eliotrope\\affliction.jpg"
+      },
+      {
+        "name": "Outrage",
+        "img": "\\eliotrope\\outrage.jpg"
+      },
+      {
+        "name": "Odyssee",
+        "img": "\\eliotrope\\odyssee.jpg"
+      },
+      {
+        "name": "Exode",
+        "img": "\\eliotrope\\exode.jpg"
+      },
+      {
+        "name": "Paume Curative",
+        "img": "\\eliotrope\\paume_curative.jpg"
+      },
+      {
+        "name": "Cabale",
+        "img": "\\eliotrope\\cabale.jpg"
+      },
+      {
+        "name": "Poing Fulgurant",
+        "img": "\\eliotrope\\poing_fulgurant.jpg"
+      },
+      {
+        "name": "Insolence",
+        "img": "\\eliotrope\\insolence.jpg"
+      },
+      {
+        "name": "Focus",
+        "img": "\\eliotrope\\focus.jpg"
+      },
+      {
+        "name": "Conflagration",
+        "img": "\\eliotrope\\conflagration.jpg"
+      },
+      {
+        "name": "Parasite",
+        "img": "\\eliotrope\\parasite.jpg"
+      },
+      {
+        "name": "Virus",
+        "img": "\\eliotrope\\virus.jpg"
+      },
+      {
+        "name": "Sinecure",
+        "img": "\\eliotrope\\sinecure.jpg"
+      },
+      {
+        "name": "Persiflage",
+        "img": "\\eliotrope\\persiflage.jpg"
+      },
+      {
+        "name": "Sarcasme",
+        "img": "\\eliotrope\\sarcasme.jpg"
+      },
+      {
+        "name": "Raillerie",
+        "img": "\\eliotrope\\raillerie.jpg"
+      },
+      {
+        "name": "Entraide",
+        "img": "\\eliotrope\\entraide.jpg"
+      },
+      {
+        "name": "Coalition",
+        "img": "\\eliotrope\\coalition.jpg"
+      }
+    ],
+    "huppermage": [
+      {
+        "name": "Onde Tellurique",
+        "img": "\\huppermage\\onde_tellurique.jpg"
+      },
+      {
+        "name": "Cataracte",
+        "img": "\\huppermage\\cataracte.jpg"
+      },
+      {
+        "name": "Ether",
+        "img": "\\huppermage\\ether.jpg"
+      },
+      {
+        "name": "Dard",
+        "img": "\\huppermage\\dard.jpg"
+      },
+      {
+        "name": "Runification",
+        "img": "\\huppermage\\runification.jpg"
+      },
+      {
+        "name": "Manifestation",
+        "img": "\\huppermage\\manifestation.jpg"
+      },
+      {
+        "name": "Lance-flamme",
+        "img": "\\huppermage\\lance-flamme.jpg"
+      },
+      {
+        "name": "Onde Celeste",
+        "img": "\\huppermage\\onde_celeste.jpg"
+      },
+      {
+        "name": "Stalagmite",
+        "img": "\\huppermage\\stalagmite.jpg"
+      },
+      {
+        "name": "Tison",
+        "img": "\\huppermage\\tison.jpg"
+      },
+      {
+        "name": "Drain Elementaire",
+        "img": "\\huppermage\\drain_elementaire.jpg"
+      },
+      {
+        "name": "Morph",
+        "img": "\\huppermage\\morph.jpg"
+      },
+      {
+        "name": "Orage",
+        "img": "\\huppermage\\orage.jpg"
+      },
+      {
+        "name": "Stalactite",
+        "img": "\\huppermage\\stalactite.jpg"
+      },
+      {
+        "name": "Rafale Transpercante",
+        "img": "\\huppermage\\rafale_transpercante.jpg"
+      },
+      {
+        "name": "Breche Tectonique",
+        "img": "\\huppermage\\breche_tectonique.jpg"
+      },
+      {
+        "name": "Polarite",
+        "img": "\\huppermage\\polarite.jpg"
+      },
+      {
+        "name": "Courant Quadramental",
+        "img": "\\huppermage\\courant_quadramental.jpg"
+      },
+      {
+        "name": "Trait Ardent",
+        "img": "\\huppermage\\trait_ardent.jpg"
+      },
+      {
+        "name": "Ouragan",
+        "img": "\\huppermage\\ouragan.jpg"
+      },
+      {
+        "name": "Glacier",
+        "img": "\\huppermage\\glacier.jpg"
+      },
+      {
+        "name": "Volcan",
+        "img": "\\huppermage\\volcan.jpg"
+      },
+      {
+        "name": "Traversee",
+        "img": "\\huppermage\\traversee.jpg"
+      },
+      {
+        "name": "Repulsion Runique",
+        "img": "\\huppermage\\repulsion_runique.jpg"
+      },
+      {
+        "name": "Bouclier Elementaire",
+        "img": "\\huppermage\\bouclier_elementaire.jpg"
+      },
+      {
+        "name": "Gardien Elementaire",
+        "img": "\\huppermage\\gardien_elementaire.jpg"
+      },
+      {
+        "name": "Deflagration",
+        "img": "\\huppermage\\deflagration.jpg"
+      },
+      {
+        "name": "Comete",
+        "img": "\\huppermage\\comete.jpg"
+      },
+      {
+        "name": "Contribution",
+        "img": "\\huppermage\\contribution.jpg"
+      },
+      {
+        "name": "Creation",
+        "img": "\\huppermage\\creation.jpg"
+      },
+      {
+        "name": "Eclats Glaces",
+        "img": "\\huppermage\\eclats_glaces.jpg"
+      },
+      {
+        "name": "Lance Solaire",
+        "img": "\\huppermage\\lance_solaire.jpg"
+      },
+      {
+        "name": "Traitement Runique",
+        "img": "\\huppermage\\traitement_runique.jpg"
+      },
+      {
+        "name": "Surcharge Runique",
+        "img": "\\huppermage\\surcharge_runique.jpg"
+      },
+      {
+        "name": "Propagation",
+        "img": "\\huppermage\\propagation.jpg"
+      },
+      {
+        "name": "Piege Elementaire",
+        "img": "\\huppermage\\piege_elementaire.jpg"
+      },
+      {
+        "name": "Lame Astrale",
+        "img": "\\huppermage\\lame_astrale.jpg"
+      },
+      {
+        "name": "Lame Tellurique",
+        "img": "\\huppermage\\lame_tellurique.jpg"
+      },
+      {
+        "name": "Meteore Percutant",
+        "img": "\\huppermage\\meteore_percutant.jpg"
+      },
+      {
+        "name": "Deluge",
+        "img": "\\huppermage\\deluge.jpg"
+      },
+      {
+        "name": "Empreinte",
+        "img": "\\huppermage\\empreinte.jpg"
+      },
+      {
+        "name": "Cycle Elementaire",
+        "img": "\\huppermage\\cycle_elementaire.jpg"
+      },
+      {
+        "name": "Tribut",
+        "img": "\\huppermage\\tribut.jpg"
+      },
+      {
+        "name": "Torrent Arcanique",
+        "img": "\\huppermage\\torrent_arcanique.jpg"
+      }
+    ],
+    "ouginak": [
+      {
+        "name": "Proie",
+        "img": "\\ouginak\\proie.jpg"
+      },
+      {
+        "name": "Gibier",
+        "img": "\\ouginak\\gibier.jpg"
+      },
+      {
+        "name": "Molosse",
+        "img": "\\ouginak\\molosse.jpg"
+      },
+      {
+        "name": "Machoire",
+        "img": "\\ouginak\\machoire.jpg"
+      },
+      {
+        "name": "Os a Moelle",
+        "img": "\\ouginak\\os_a_moelle.jpg"
+      },
+      {
+        "name": "Museliere",
+        "img": "\\ouginak\\museliere.jpg"
+      },
+      {
+        "name": "Charogne",
+        "img": "\\ouginak\\charogne.jpg"
+      },
+      {
+        "name": "Radius",
+        "img": "\\ouginak\\radius.jpg"
+      },
+      {
+        "name": "Traque",
+        "img": "\\ouginak\\traque.jpg"
+      },
+      {
+        "name": "Depecage",
+        "img": "\\ouginak\\depecage.jpg"
+      },
+      {
+        "name": "Convergence",
+        "img": "\\ouginak\\convergence.jpg"
+      },
+      {
+        "name": "Pistage",
+        "img": "\\ouginak\\pistage.jpg"
+      },
+      {
+        "name": "Lance-roquet",
+        "img": "\\ouginak\\lance-roquet.jpg"
+      },
+      {
+        "name": "Gangrene",
+        "img": "\\ouginak\\gangrene.jpg"
+      },
+      {
+        "name": "Dogue",
+        "img": "\\ouginak\\dogue.jpg"
+      },
+      {
+        "name": "Depouille",
+        "img": "\\ouginak\\depouille.jpg"
+      },
+      {
+        "name": "Tibia",
+        "img": "\\ouginak\\tibia.jpg"
+      },
+      {
+        "name": "Humerus",
+        "img": "\\ouginak\\humerus.jpg"
+      },
+      {
+        "name": "Arcanin",
+        "img": "\\ouginak\\arcanin.jpg"
+      },
+      {
+        "name": "Caninos",
+        "img": "\\ouginak\\caninos.jpg"
+      },
+      {
+        "name": "Rabattage",
+        "img": "\\ouginak\\rabattage.jpg"
+      },
+      {
+        "name": "Chasse",
+        "img": "\\ouginak\\chasse.jpg"
+      },
+      {
+        "name": "Carcasse",
+        "img": "\\ouginak\\carcasse.jpg"
+      },
+      {
+        "name": "Battue",
+        "img": "\\ouginak\\battue.jpg"
+      },
+      {
+        "name": "Pelage Protecteur",
+        "img": "\\ouginak\\pelage_protecteur.jpg"
+      },
+      {
+        "name": "Ferocite",
+        "img": "\\ouginak\\ferocite.jpg"
+      },
+      {
+        "name": "Aboi",
+        "img": "\\ouginak\\aboi.jpg"
+      },
+      {
+        "name": "Vertebre",
+        "img": "\\ouginak\\vertebre.jpg"
+      },
+      {
+        "name": "Cubitus",
+        "img": "\\ouginak\\cubitus.jpg"
+      },
+      {
+        "name": "Calcaneus",
+        "img": "\\ouginak\\calcaneus.jpg"
+      },
+      {
+        "name": "Apaisement",
+        "img": "\\ouginak\\apaisement.jpg"
+      },
+      {
+        "name": "Affection",
+        "img": "\\ouginak\\affection.jpg"
+      },
+      {
+        "name": "Amarok",
+        "img": "\\ouginak\\amarok.jpg"
+      },
+      {
+        "name": "Cerbere",
+        "img": "\\ouginak\\cerbere.jpg"
+      },
+      {
+        "name": "Panique",
+        "img": "\\ouginak\\panique.jpg"
+      },
+      {
+        "name": "Poursuite",
+        "img": "\\ouginak\\poursuite.jpg"
+      },
+      {
+        "name": "Aboiement",
+        "img": "\\ouginak\\aboiement.jpg"
+      },
+      {
+        "name": "Rogne",
+        "img": "\\ouginak\\rogne.jpg"
+      },
+      {
+        "name": "Limier",
+        "img": "\\ouginak\\limier.jpg"
+      },
+      {
+        "name": "Tetanisation",
+        "img": "\\ouginak\\tetanisation.jpg"
+      },
+      {
+        "name": "Flair",
+        "img": "\\ouginak\\flair.jpg"
+      },
+      {
+        "name": "Acharnement",
+        "img": "\\ouginak\\acharnement.jpg"
+      },
+      {
+        "name": "Appel de la Meute",
+        "img": "\\ouginak\\appel_de_la_meute.jpg"
+      },
+      {
+        "name": "Nouvelle Lune",
+        "img": "\\ouginak\\nouvelle_lune.jpg"
+      }
+    ],
+    "forgelance": [
+      {
+        "name": "Lance du Lac",
+        "img": "\\forgelance\\lance_du_lac.jpg"
+      },
+      {
+        "name": "Epieu Sismique",
+        "img": "\\forgelance\\epieu_sismique.jpg"
+      },
+      {
+        "name": "Lance-Pierre",
+        "img": "\\forgelance\\lance-pierre.jpg"
+      },
+      {
+        "name": "Javelot-Foudre",
+        "img": "\\forgelance\\javelot-foudre.jpg"
+      },
+      {
+        "name": "Epilogue",
+        "img": "\\forgelance\\epilogue.jpg"
+      },
+      {
+        "name": "Parade",
+        "img": "\\forgelance\\parade.jpg"
+      },
+      {
+        "name": "Lance a Incendie",
+        "img": "\\forgelance\\lance_a_incendie.jpg"
+      },
+      {
+        "name": "Degagement",
+        "img": "\\forgelance\\degagement.jpg"
+      },
+      {
+        "name": "Javeline de Myr",
+        "img": "\\forgelance\\javeline_de_myr.jpg"
+      },
+      {
+        "name": "Fer Rouge",
+        "img": "\\forgelance\\fer_rouge.jpg"
+      },
+      {
+        "name": "Charge Heroique",
+        "img": "\\forgelance\\charge_heroique.jpg"
+      },
+      {
+        "name": "Galanterie",
+        "img": "\\forgelance\\galanterie.jpg"
+      },
+      {
+        "name": "Effondrement",
+        "img": "\\forgelance\\effondrement.jpg"
+      },
+      {
+        "name": "Pluie d'Airain",
+        "img": "\\forgelance\\pluie_d'airain.jpg"
+      },
+      {
+        "name": "Trident de la Mer",
+        "img": "\\forgelance\\trident_de_la_mer.jpg"
+      },
+      {
+        "name": "Moulin Rouge",
+        "img": "\\forgelance\\moulin_rouge.jpg"
+      },
+      {
+        "name": "Phalange",
+        "img": "\\forgelance\\phalange.jpg"
+      },
+      {
+        "name": "Oriflamme",
+        "img": "\\forgelance\\oriflamme.jpg"
+      },
+      {
+        "name": "Estoc Brulant",
+        "img": "\\forgelance\\estoc_brulant.jpg"
+      },
+      {
+        "name": "Octave",
+        "img": "\\forgelance\\octave.jpg"
+      },
+      {
+        "name": "Volee d'Airain",
+        "img": "\\forgelance\\volee_d'airain.jpg"
+      },
+      {
+        "name": "Soulevement",
+        "img": "\\forgelance\\soulevement.jpg"
+      },
+      {
+        "name": "Balestra",
+        "img": "\\forgelance\\balestra.jpg"
+      },
+      {
+        "name": "Moulin a Vent",
+        "img": "\\forgelance\\moulin_a_vent.jpg"
+      },
+      {
+        "name": "Talon d'Argile",
+        "img": "\\forgelance\\talon_d'argile.jpg"
+      },
+      {
+        "name": "Fente",
+        "img": "\\forgelance\\fente.jpg"
+      },
+      {
+        "name": "Kyrja",
+        "img": "\\forgelance\\kyrja.jpg"
+      },
+      {
+        "name": "Vajra",
+        "img": "\\forgelance\\vajra.jpg"
+      },
+      {
+        "name": "Maelstrom",
+        "img": "\\forgelance\\maelstrom.jpg"
+      },
+      {
+        "name": "Ydra",
+        "img": "\\forgelance\\ydra.jpg"
+      },
+      {
+        "name": "Prelude au Fer",
+        "img": "\\forgelance\\prelude_au_fer.jpg"
+      },
+      {
+        "name": "Crepuscule",
+        "img": "\\forgelance\\crepuscule.jpg"
+      },
+      {
+        "name": "Lance-Cyclone",
+        "img": "\\forgelance\\lance-cyclone.jpg"
+      },
+      {
+        "name": "Elding",
+        "img": "\\forgelance\\elding.jpg"
+      },
+      {
+        "name": "Chevalerie",
+        "img": "\\forgelance\\chevalerie.jpg"
+      },
+      {
+        "name": "Renommee",
+        "img": "\\forgelance\\renommee.jpg"
+      },
+      {
+        "name": "Jormun",
+        "img": "\\forgelance\\jormun.jpg"
+      },
+      {
+        "name": "Muspel",
+        "img": "\\forgelance\\muspel.jpg"
+      },
+      {
+        "name": "Poincon",
+        "img": "\\forgelance\\poincon.jpg"
+      },
+      {
+        "name": "Etreinte de Valkyr",
+        "img": "\\forgelance\\etreinte_de_valkyr.jpg"
+      },
+      {
+        "name": "Terre du Milieu",
+        "img": "\\forgelance\\terre_du_milieu.jpg"
+      },
+      {
+        "name": "Noa",
+        "img": "\\forgelance\\noa.jpg"
+      },
+      {
+        "name": "Eclipse",
+        "img": "\\forgelance\\eclipse.jpg"
+      },
+      {
+        "name": "Holmgang",
+        "img": "\\forgelance\\holmgang.jpg"
+      }
+    ]
+  }
+}

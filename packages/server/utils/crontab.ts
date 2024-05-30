@@ -1,7 +1,7 @@
 import bcrypt from "bcryptjs";
 import fs from "fs";
 import data from "../data/icoSpells.json"
-import {DailyResponse} from "client/src/type/DailyResponse";
+import {DailyResponse} from "../type/DailyResponse";
 
 
 export default async function setDailyRandomSpell(){

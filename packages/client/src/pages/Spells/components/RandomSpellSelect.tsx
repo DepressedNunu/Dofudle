@@ -3,7 +3,7 @@ import {Guess, SpellGuess} from "@/type/Guess.ts";
 import {useEffect, useState} from "react";
 import {getChampionSpells} from "@/utils/Champions.tsx";
 import {Spell} from "@/type/Spell.ts";
-import DisplayGuess, {DisplaySpellGuess} from "@/pages/Spells/components/DisplayGuess.tsx";
+import {DisplaySpellGuess} from "@/pages/Spells/components/DisplayGuess.tsx";
 import bcrypt from "bcryptjs";
 import {useQuery} from "@tanstack/react-query";
 

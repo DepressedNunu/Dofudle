@@ -1,6 +1,5 @@
 import express from "express";
 import cors from "cors";
-import {DailyResponse} from "client/src/type/DailyResponse";
 import characters from "./data/icoSpells.json";
 import daily from "./data/daily.json";
 import setDailyRandomSpell from "./utils/crontab";

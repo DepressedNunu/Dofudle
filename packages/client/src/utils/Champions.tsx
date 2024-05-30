@@ -6,5 +6,6 @@ export function getChampionList(): string[] {
 }
 
 export function getChampionSpells(name: string): Spell[] {
+    // @ts-ignore
     return data.characters[name] ? data.characters[name] : [];
 }
